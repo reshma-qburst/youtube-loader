@@ -10,7 +10,6 @@ npm 4.0.5
 To run the app locally:
 
 git clone https://github.com/reshma-qburst/youtube-loader.git
-
 cd youtube-loader
 npm install
 npm run
