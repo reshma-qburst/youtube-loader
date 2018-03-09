@@ -11,7 +11,7 @@ Requirements:
 
 To run the app locally:
 
-1)git clone https://github.com/reshma-qburst/youtube-loader.git
+1) git clone https://github.com/reshma-qburst/youtube-loader.git
 
 2) cd youtube-loader
 
